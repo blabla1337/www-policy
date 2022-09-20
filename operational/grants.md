@@ -135,6 +135,10 @@ Grants are not transferable, cannot be passed on, or resold to others. Grant rec
 
 The OWASP Executive Director shall report to the OWASP Board quarterly on all grants awarded and delivered, along with improvements to this policy.
 
+All the active grants shall be displayed on the [OWASP Active Grants](/www-policy/operational/active_grants.md) page for the community to see and where the OWASP Foundation is giving and receiving specific grants for OWASP Projects.
+
+The projects that are having an active grant need to provide on the [OWASP Active Grants](/www-policy/operational/active_grants.md) page the description of the grant and a detailed overview of the grant specific deliverables that needs to be accessible by any viewer. 
+
 ### Audit Authority
 
 Grants are subject to being audited by the OWASP Foundation, including validating grant selection criteria was followed, completed satisfactorily and on time, ensuring budgets were spent in accordance with policy, and obtaining any sponsoring organization’s views.
